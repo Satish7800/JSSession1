@@ -10,3 +10,9 @@ console.log(studentId);
 
 console.table({studentId, studentName, studentAge, studentSubject, studentCity});
 
+// Block Scope
+
+if (true) {
+    let stName="Ramesh";
+}
+
