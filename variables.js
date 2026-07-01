@@ -6,4 +6,7 @@ const studentAge = 20;
 var studentSubject ="Science";
 studentCity="New York";
 
+console.log(studentId);
+
 console.table({studentId, studentName, studentAge, studentSubject, studentCity});
+
