@@ -57,7 +57,7 @@ const cars = ["Saab", "Volvo", "BMW"];  //It is used to store multiple values in
 
 let nullValue = 10;
 
-console.log(typeof isTrue);
+console.log(typeof nullValue);
 
 
 
