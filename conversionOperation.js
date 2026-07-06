@@ -19,7 +19,9 @@ let booleanValue = Boolean(isLoggedIn);
 // "ram" => true
 
 
-let anyNumber = "1234ab";
-let stringNumber = Number(anyNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let anyNumber = "1234";
+// let stringNumber = Number(anyNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
