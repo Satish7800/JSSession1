@@ -1,3 +1,5 @@
+// Array- 2 -----------------
+
 // =>map() Creates a new array by transforming each element.
 
 // Original array remains unchanged.
